@@ -1,0 +1,4 @@
+{
+  "module": "../fesm2022/gosamply-ui-tabs.mjs",
+  "typings": "../types/gosamply-ui-tabs.d.ts"
+}

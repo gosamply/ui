@@ -1,0 +1,4 @@
+{
+  "module": "../fesm2022/gosamply-ui-textarea.mjs",
+  "typings": "../types/gosamply-ui-textarea.d.ts"
+}

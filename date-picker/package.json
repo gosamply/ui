@@ -1,0 +1,4 @@
+{
+  "module": "../fesm2022/gosamply-ui-date-picker.mjs",
+  "typings": "../types/gosamply-ui-date-picker.d.ts"
+}
