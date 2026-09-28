@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@import '../theme.css';
+
+/* Storybook compiles the library from source, so scan it (theme.css only points at the built fesm2022 output). */
+@source '../';
+
+html,
+body {
+  font-size: 15px;
+}
