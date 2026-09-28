@@ -27,6 +27,9 @@
   "files": [],
   "references": [
     {
+      "path": "./projects/ui/.storybook/tsconfig.json"
+    },
+    {
       "path": "./projects/ui/tsconfig.lib.json"
     }
   ]
