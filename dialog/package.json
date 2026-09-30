@@ -1,0 +1,4 @@
+{
+  "module": "../fesm2022/gosamply-ui-dialog.mjs",
+  "typings": "../types/gosamply-ui-dialog.d.ts"
+}

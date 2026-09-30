@@ -1,0 +1,4 @@
+{
+  "module": "../fesm2022/gosamply-ui-calendar.mjs",
+  "typings": "../types/gosamply-ui-calendar.d.ts"
+}
