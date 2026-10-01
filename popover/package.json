@@ -1,0 +1,4 @@
+{
+  "module": "../fesm2022/gosamply-ui-popover.mjs",
+  "typings": "../types/gosamply-ui-popover.d.ts"
+}
